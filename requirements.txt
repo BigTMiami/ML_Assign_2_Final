@@ -1,4 +1,4 @@
-git+https://github.com/BigTMiami/mlrose.git
+mlrose-hiive
 matplotlib
 seaborn
 requests

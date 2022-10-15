@@ -5,8 +5,8 @@ Assignment 2
 
 Infrastructure Setup
 * Uses Python 3.8 (May work with 3.6 or 3.7) 
-* CODE: https://github.com/BigTMiami/ML_Assign_2
-    * To download, run: git clone https://github.com/BigTMiami/ML_Assign_2.git
+* CODE: https://github.com/BigTMiami/ML_Assign_2_Final.git
+    * To download, run: git clone https://github.com/BigTMiami/ML_Assign_2_Final.git
     * Two changes were made to the mlrose_hiive project and are found in the mlrose_changes folder. To use these changes, these files should be copied into the appropriate library site packages.  The code can be run without doing this.
 * Python Setup: In ML_Assign_2_Fall directory is a requirements.txt.  This will load all the needed python libraries.
     * Best practice is to use a virtual environment, such as virtualenv, to load libraries.
